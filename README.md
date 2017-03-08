@@ -14,7 +14,7 @@
 
 ## Unacceptable Behavior
 
-- Conduct or speech which might be considered sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory or offensive in nature.
+- Conduct or speech which might be considered sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory in nature.
 Do not use unwelcome, suggestive, derogatory or inappropriate nicknames or terms.
 Do not show disrespect towards others. (Jokes, innuendo, dismissive attitudes.)
 - Intimidation or harassment (online or in-person). Please read the Citizen Code of Conduct for how we interpret harassment.
