@@ -29,6 +29,7 @@ Do not show disrespect towards others. (Jokes, innuendo, dismissive attitudes.)
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
 
 * Ronn Ross - @ronnross
-* tbd
+* Jake Boyles - @jakeboyles
+* Geoff Lane - @geoff
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
