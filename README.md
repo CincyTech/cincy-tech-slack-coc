@@ -32,5 +32,6 @@ Do not show disrespect towards others. (Jokes, innuendo, dismissive attitudes.)
 * Jake Boyles - @jakeboyles
 * Geoff Lane - @geoff
 * Kat Tornwall - @ktornwall
+* Ryan Dlugosz - @ryandlugosz
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
