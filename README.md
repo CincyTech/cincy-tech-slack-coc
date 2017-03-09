@@ -63,5 +63,6 @@ If a participant engages in harassing behavior, Moderators may take any action t
 * Geoff Lane - @geoff
 * Kat Tornwall - @ktornwall
 * Ryan Dlugosz - @ryandlugosz
+* Becky Blank - @beckyblank
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
