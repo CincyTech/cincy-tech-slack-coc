@@ -1,35 +1,20 @@
-# Cincy Tech Slack Community Code of Conduct
+## Be nice.
 
-## Introduction
+Whether you've come to ask questions, or to generously share what you know, remember that we’re all here to learn, together. Be welcoming and patient, especially with those who may not know everything you do. Oh, and bring your sense of humor. Just in case.
 
-- Diversity and inclusion make our community strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand.
-- Our goal is to maintain a safe, helpful and friendly community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other defining characteristic.
+That basically covers it. But these three guidelines may help:
 
-## Expected Behavior
+1. Rudeness and belittling language are not okay. Your tone should match the way you'd talk in person with someone you respect and whom you want to respect you. If you don't have time to say something politely, just leave it for someone who does.
 
-- Be welcoming.
-- Be kind.
-- Look out for each other.
+2. Be welcoming, be patient, and assume good intentions. Don't expect new users to know all the rules — they don't. And be patient while they learn. If you're here for help, make it as easy as possible for others to help you. Everyone here is volunteering, and no one responds well to demands for help.
 
-## Unacceptable Behavior
+3. Don't be a jerk. These are just a few examples. If you see them, flag them:
 
-- Conduct or speech which might be considered sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory or offensive in nature.
-Do not use unwelcome, suggestive, derogatory or inappropriate nicknames or terms.
-Do not show disrespect towards others. (Jokes, innuendo, dismissive attitudes.)
-- Intimidation or harassment (online or in-person). Please read the Citizen Code of Conduct for how we interpret harassment.
-- Disrespect towards differences of opinion.
-- Inappropriate attention or contact. Be aware of how your actions affect others. If it makes someone uncomfortable, stop.
-- Not understanding the differences between constructive criticism and disparagement.
-- Sustained disruptions.
-- Violence, threats of violence or violent language.
+  * Name-calling. Focus on the post, not the person. That includes terms that feel personal even when they're applied to posts (like "lazy", "ignorant", or "whiny").
+  * Bigotry of any kind. Language likely to offend or alienate individuals or groups based on race, gender, sexual orientation, religion, etc. will not be tolerated. At all. (Those are just a few examples; when in doubt, just don't.)
+  * Inappropriate language or attention. Avoid vulgar terms and anything sexually suggestive. Also, this is not a dating site.
+  * Harassment and bullying. If you see a hostile interaction, flag it. If it keeps up, disengage — we'll handle it. If something needs staff attention, you can use the contact us link at the bottom of every page.
 
-## Enforcement
+We're proud to be a large, user-driven space on the internet where name-calling, harassment, and other online nastiness are almost non-existent. It's up to all of us to keep it that way.
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
-
-* Ronn Ross - @ronnross
-* Jake Boyles - @jakeboyles
-* Geoff Lane - @geoff
-* Kat Tornwall - @ktornwall
-
-*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+In summary, have fun, and be good to each other.
