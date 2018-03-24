@@ -66,3 +66,12 @@ If a participant engages in harassing behavior, Moderators may take any action t
 * Becky Blank - @beckyblank
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+
+## Logs and Records
+Please be mindful that things you say here may at some point become public. We cannot prevent people from making records of information shared in this slack. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
+
+## Message Retention
+Because this is a free Slack team account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
+
+### Moderator Commitment to Privacy
+Moderators will not attempt to access any private communication within Cincy Tech Slack by using their privileged account status, unless they are required to do so by law.
