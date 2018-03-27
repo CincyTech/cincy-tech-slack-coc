@@ -14,7 +14,7 @@ This code of conduct applies to all Cincy Tech Slack spaces both online and off.
 
 Some Cincy Tech Slack spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-### Harassment includes:
+### Harassment includes
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
@@ -54,13 +54,13 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, Moderators may take any action they deem appropriate, up to and including expulsion from all Cincy Tech Slack spaces and identification of the participant as a harasser to other Cincy Tech Slack members or the general public.
 
-### Confidentiality:
+### Confidentiality
 **Please be mindful that things you say here may at some point become public**. Please treat this as a public forum. While we expect our conversations to remain in this space, we cannot guarantee that they will do so--nor can we guarantee that every member's login credentials and logged-in devices are secure. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-### Logs and Records:
+### Logs and Records
 **Please be mindful that things you say here may at some point become public**. We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-### Message Retention:
+### Message Retention
 Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of `Cincy Tech Slack`. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
 ## Moderators
