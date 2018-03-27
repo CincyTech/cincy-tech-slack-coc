@@ -61,7 +61,7 @@ If a participant engages in harassing behavior, Moderators may take any action t
 **Please be mindful that things you say here may at some point become public**. We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
 ### Message Retention:
-Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of `CincyTechSlack`. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
+Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of `Cincy Tech Slack`. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
 ## Moderators
 
@@ -75,3 +75,6 @@ Because this is a free slack account, we have restricted scrollback, but Slack--
 * Becky Blank - @beckyblank
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+
+### Moderator Commitment to Privacy
++Moderators will not attempt to access any private communication within `Cincy Tech Slack` by using their privileged account status, unless they are required to do so by law.
