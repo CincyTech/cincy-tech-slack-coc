@@ -77,4 +77,4 @@ Because this is a free slack account, we have restricted scrollback, but Slack--
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
 
 ### Moderator Commitment to Privacy
-+Moderators will not attempt to access any private communication within `Cincy Tech Slack` by using their privileged account status, unless they are required to do so by law.
+Moderators will not attempt to access any private communication within `Cincy Tech Slack` by using their privileged account status, unless they are required to do so by law.
