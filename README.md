@@ -68,9 +68,7 @@ Because this is a free slack account, we have restricted scrollback, but Slack--
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
 
 * Ronn Ross - @ronnross
-* Jake Boyles - @jakeboyles
-* Geoff Lane - @geoff
-* Kat Tornwall - @ktornwall
+* Kat Fairbanks - @katzenbar
 * Ryan Dlugosz - @ryandlugosz
 * Becky Blank - @beckyblank
 
